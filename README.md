@@ -16,7 +16,7 @@
   <table>
     <tr><td>numpy==1.26.1</td><td>pandas==2.2.2</td><td>matplotlib==3.5.2</td></tr>
     <tr><td>requests==2.31.0</td><td>beautifulsoup4==4.12.2</td><td>seaborn==0.13.2</td></tr>
-    <tr><td>dataframe-image==0.2.3</td><td>-</td><td>-</td></tr>
+    <tr><td>dataframe-image==0.2.3</td><td>selenium==4.22.0</td><td>-</td></tr>
   </table>
 </div>
 
